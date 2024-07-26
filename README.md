@@ -3,7 +3,7 @@
 🦉 Estudo Programação por conta própria a mais de 2 anos<br/>
 ⭐ Sonho em ser um desenvolvedor Front-End<br/>
 📕 Cursando Ciência da Computação em Faculdade Digital Descomplica<br/>
-[![Ruby](https://cdn.emojidex.com/emoji/mdpi/Ruby.png "Ruby")](https://www.ruby-lang.org) Atualmente aprendendo Ruby on Rails 
+🔻 Atualmente aprendendo Ruby on Rails 
 
 # 💻 Tecnologias e Ferramentas
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
