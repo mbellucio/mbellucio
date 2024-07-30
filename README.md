@@ -5,6 +5,8 @@
 📕 Cursando Ciência da Computação em Faculdade Digital Descomplica<br/>
 🔻 Atualmente aprendendo Ruby on Rails 
 
+📧 Você pode me contatar em: matheusbellucio@gmail.com
+
 # 💻 Tecnologias e Ferramentas
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -24,4 +26,4 @@
 
 # 📊 Estatísticas do Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbellucio&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbellucio&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbellucio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
