@@ -1,9 +1,6 @@
 # 🖐🏻 Olá, sou Matheus!
 
-🦉 Estudo Programação por conta própria a mais de 2 anos<br/>
-⭐ Sonho em ser um desenvolvedor Front-End<br/>
 📕 Cursando Ciência da Computação em Faculdade Digital Descomplica<br/>
-🔻 Atualmente aprendendo Ruby on Rails 
 
 📧 Você pode me contatar em: matheusbellucio@gmail.com
 
